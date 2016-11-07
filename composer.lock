@@ -1,0 +1,61 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "f05a07aadbac97766600cfacd8306baa",
+    "content-hash": "2a2d3d8f4de0caa8a72030371522ef09",
+    "packages": [
+        {
+            "name": "composer-test-2",
+            "version": "1.0.0-p4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/josephmcdermott/composer-test-2.git",
+                "reference": "b78abf743d155765727a178d845bbc0f03b170e3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/josephmcdermott/composer-test-2/zipball/b78abf743d155765727a178d845bbc0f03b170e3",
+                "reference": "b78abf743d155765727a178d845bbc0f03b170e3",
+                "shasum": ""
+            },
+            "type": "library",
+            "support": {
+                "source": "https://github.com/josephmcdermott/composer-test-2/tree/1.0.0-p4",
+                "issues": "https://github.com/josephmcdermott/composer-test-2/issues"
+            },
+            "time": "2016-11-07 11:19:27"
+        },
+        {
+            "name": "composer-test-3",
+            "version": "1.0.0-p3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/josephmcdermott/composer-test-3.git",
+                "reference": "f1a1dd679113e01dde7fd21a8cec3f6022e92afe"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/josephmcdermott/composer-test-3/zipball/f1a1dd679113e01dde7fd21a8cec3f6022e92afe",
+                "reference": "f1a1dd679113e01dde7fd21a8cec3f6022e92afe",
+                "shasum": ""
+            },
+            "type": "library",
+            "support": {
+                "source": "https://github.com/josephmcdermott/composer-test-3/tree/1.0.0-p3",
+                "issues": "https://github.com/josephmcdermott/composer-test-3/issues"
+            },
+            "time": "2016-11-07 11:18:29"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

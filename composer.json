@@ -1,0 +1,16 @@
+{
+    "require": {
+        "composer-test-2": "1.0.0-p4",
+        "composer-test-3": "1.0.0-p3"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:josephmcdermott/composer-test-2.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:josephmcdermott/composer-test-3.git"
+        }
+    ]
+}
