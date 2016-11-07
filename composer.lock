@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "29271c2578413250797fe835d2fa2831",
-    "content-hash": "162f03d806183412e3aa8b0cb27a7a3f",
+    "hash": "a9ebd65c60687c64adf175239e1dc22e",
+    "content-hash": "27b268cc9b019186429d3902247b81c4",
     "packages": [
         {
             "name": "composer-test-2",
@@ -29,25 +29,25 @@
             "time": "2016-11-07 11:22:11"
         },
         {
-            "name": "composer-test-3",
-            "version": "1.0.0-p3",
+            "name": "composer/composer",
+            "version": "1.2.2-p1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/josephmcdermott/composer-test-3.git",
-                "reference": "f1a1dd679113e01dde7fd21a8cec3f6022e92afe"
+                "reference": "39f182119733c314cab986c55273e3956096663b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/josephmcdermott/composer-test-3/zipball/f1a1dd679113e01dde7fd21a8cec3f6022e92afe",
-                "reference": "f1a1dd679113e01dde7fd21a8cec3f6022e92afe",
+                "url": "https://api.github.com/repos/josephmcdermott/composer-test-3/zipball/39f182119733c314cab986c55273e3956096663b",
+                "reference": "39f182119733c314cab986c55273e3956096663b",
                 "shasum": ""
             },
             "type": "library",
             "support": {
-                "source": "https://github.com/josephmcdermott/composer-test-3/tree/1.0.0-p3",
+                "source": "https://github.com/josephmcdermott/composer-test-3/tree/1.2.2",
                 "issues": "https://github.com/josephmcdermott/composer-test-3/issues"
             },
-            "time": "2016-11-07 11:18:29"
+            "time": "2016-11-07 11:30:45"
         }
     ],
     "packages-dev": [],

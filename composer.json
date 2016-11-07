@@ -1,7 +1,7 @@
 {
     "require": {
         "composer-test-2": "1.0.1",
-        "composer-test-3": "1.0.0-p3"
+        "composer/composer": "1.2.2-p1"
     },
     "repositories": [
         {
