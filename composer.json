@@ -1,13 +1,8 @@
 {
     "require": {
-        "composer-test-2": "1.0.1",
-        "composer/composer": "1.2.2-p1"
+       "devster/ubench": "1.2.0-p1"
     },
     "repositories": [
-        {
-            "type": "vcs",
-            "url": "git@github.com:josephmcdermott/composer-test-2.git"
-        },
         {
             "type": "vcs",
             "url": "git@github.com:josephmcdermott/composer-test-3.git"
